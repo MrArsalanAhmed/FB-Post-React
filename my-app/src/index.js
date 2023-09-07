@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import "./index.css";
-// import '@fortawesome/fontawesome-free/css/all.min.css';
 
 function Card(props) {
   return (
@@ -60,7 +59,6 @@ const postsData = [
     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto natus corrupti perspiciatis totam! Cumque ab eum sunt error vero, recusandae doloribus, delectus dignissimos nobis molestias ex nihil officia assumenda maiores.",
     name: "John",
   },
-  // Add more posts here
 ];
 
 ReactDOM.render(
